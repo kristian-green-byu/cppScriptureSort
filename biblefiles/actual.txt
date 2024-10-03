@@ -1,0 +1,8 @@
+Welcome to the Bible Processor!
+Version V0.1
+Input the book you wish to examine with no spaces.
+For example, if you want to input 1 Corinthians, write 1Corinthians instead.
+ Input: You requested to access Hi.txt
+File Hi.txt not found. Please verify your input and try again.
+
+Do you want analyze something else? (Y/N)
